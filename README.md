@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" alt="sql-logo" width="100"/>
+  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="aws-logo" width="200"/>
 </p>
 
 # 🧮 Projeto | Análise de Dados de Crédito com SQL
